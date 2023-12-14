@@ -1,0 +1,30 @@
+{
+    "project_info": {
+      "project_number": "470373738416",
+      "project_id": "recorderapp-9f2ef",
+      "storage_bucket": "recorderapp-9f2ef.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:470373738416:android:fe6273b8a776fe26afd875",
+          "android_client_info": {
+            "package_name": "com.recorderapp"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyB5Ct1aLErk-t31rUMYjmBjL-qX5LzKiDE"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  
