@@ -38,7 +38,6 @@ const Home = () => {
   useEffect(() => {
     animationRef.current?.play();
 
-    // Or set a specific startFrame and endFrame with:
     animationRef.current?.play(30, 120);
   }, []);
 
